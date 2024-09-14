@@ -70,9 +70,6 @@ Created by Niño Garcia
 - [LinkedIn](https://www.linkedin.com/in/ninogarci/)
 - [Upwork](https://www.upwork.com/freelancers/~01dd78612ac234aadd)
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgements
 
